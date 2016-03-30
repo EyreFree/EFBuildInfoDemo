@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  BuildInfoDemo
 //
-//  Created by MBP on 16/3/29.
-//  Copyright © 2016年 MBP. All rights reserved.
+//  Created by EyreFree on 16/3/29.
+//  Copyright © 2016年 eyrefree. All rights reserved.
 //
 
 import UIKit

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BUILD_TIME</key>
+	<string>2016-03-30T10:08:36+0800</string>
+	<key>GIT_SHA</key>
+	<string>3e4d213</string>
+</dict>
+</plist>
