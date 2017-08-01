@@ -9,7 +9,7 @@ iOS 在 App 中获取当前版本的构建时间和 Git Hash 值 Demo
 
 ## 详细介绍
 
-参见：[http://www.eyrefree.org/2016/03/08/2016-03-08-iOS-Build-Info/](http://www.eyrefree.org/2016/03/08/2016-03-08-iOS-Build-Info/)
+参见：[http://www.jianshu.com/p/0af41db60d7e](http://www.jianshu.com/p/0af41db60d7e)
 
 ## 作者
 
